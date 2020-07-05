@@ -1,6 +1,13 @@
+# REMOVE THIS
+themesDir = "../../" 
+
+# DO NOT REMOVE THIS
+theme = "hugo-theme-codex" 
+
+# Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://https://singleberry.github.io/"
+baseURL = "https://example.org/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
@@ -54,3 +61,6 @@ copyright = "© {year}"
   name = "blog"
   title = "Blog"
   url = "/blog"
+
+
+
